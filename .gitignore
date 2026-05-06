@@ -1,0 +1,29 @@
+# 環境変数（シークレット）
+frontend/.env.local
+
+# SAMビルド成果物
+backend/.aws-sam/
+.aws-sam/
+
+# Node.js
+frontend/node_modules/
+frontend/.next/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# テスト出力
+output.json
+.coverage
+htmlcov/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+*.swp
+*.swo
