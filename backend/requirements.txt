@@ -1,0 +1,1 @@
+# boto3 is pre-installed in Lambda runtime, no need to bundle it
